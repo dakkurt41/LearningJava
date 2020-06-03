@@ -1,14 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="155cec30-e9d1-47f2-bb09-70e8c9cb32e8" name="Default Changelist" comment="" />
+    <list default="true" id="155cec30-e9d1-47f2-bb09-70e8c9cb32e8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="$USER_HOME$/.m2/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
   <component name="ProjectId" id="1cpMmNE1lj8hLjbfrufTy0d1VY4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -20,6 +56,79 @@
         </RuleState>
       </list>
     </option>
+  </component>
+  <component name="RunManager" selected="JUnit.HelloWorld.ReferenceDataTypes">
+    <configuration name="HelloWorld" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Yeni_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="A101_LearningJava.B101_GettingStarted.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="A101_LearningJava.B101_GettingStarted" />
+      <option name="MAIN_CLASS_NAME" value="A101_LearningJava.B101_GettingStarted.HelloWorld" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloWorld.PrimitiveDataTypes" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Yeni_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="A101_LearningJava.B101_GettingStarted.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="A101_LearningJava.B101_GettingStarted" />
+      <option name="MAIN_CLASS_NAME" value="A101_LearningJava.B101_GettingStarted.HelloWorld" />
+      <option name="METHOD_NAME" value="PrimitiveDataTypes" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloWorld.ReferenceDataTypes" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Yeni_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="A101_LearningJava.B101_GettingStarted.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="A101_LearningJava.B101_GettingStarted" />
+      <option name="MAIN_CLASS_NAME" value="A101_LearningJava.B101_GettingStarted.HelloWorld" />
+      <option name="METHOD_NAME" value="ReferenceDataTypes" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloWorld.Test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Yeni_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="A101_LearningJava.B101_GettingStarted.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="A101_LearningJava.B101_GettingStarted" />
+      <option name="MAIN_CLASS_NAME" value="A101_LearningJava.B101_GettingStarted.HelloWorld" />
+      <option name="METHOD_NAME" value="Test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.HelloWorld.ReferenceDataTypes" />
+        <item itemvalue="JUnit.HelloWorld.PrimitiveDataTypes" />
+        <item itemvalue="JUnit.HelloWorld" />
+        <item itemvalue="JUnit.HelloWorld.Test1" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -33,5 +142,16 @@
       <updated>1591221241055</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
