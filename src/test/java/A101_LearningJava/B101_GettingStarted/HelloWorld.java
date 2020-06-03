@@ -31,9 +31,27 @@ public class HelloWorld {
 
        String firstName = "Kara";
        String lastName = "Kartal";
+       char firstNameInital = firstName.charAt(0);
 
         System.out.println(firstName);
         System.out.println(lastName);
+        System.out.println(firstNameInital);
 
     }
+
+    @Test
+    public void ConcatenateVariables(){
+
+        int age = 34;
+        double Gpa = 4.0;
+        char lastNameInitial = 'D';
+        String firstName = "Kara";
+        String lastName = "Kartal";
+        char firstNameInital = firstName.charAt(0);
+
+        System.out.println(firstName + " " + lastName +  " has a GPA of "+ Gpa );
+
+    }
+
+
 }
