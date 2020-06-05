@@ -56,8 +56,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.HelloWorld.ConcatenateVariables">
-    <configuration name="HelloWorld" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.HelloWorld.whileLoops">
+    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="A101_LearningJava.B101_GettingStarted.HelloWorld" />
       <module name="Yeni_Java" />
       <extension name="coverage">
         <pattern>
@@ -65,14 +66,11 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="A101_LearningJava.B101_GettingStarted" />
-      <option name="MAIN_CLASS_NAME" value="A101_LearningJava.B101_GettingStarted.HelloWorld" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HelloWorld.ConcatenateVariables" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="HelloWorld.IfStatementsLogic" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Yeni_Java" />
       <extension name="coverage">
         <pattern>
@@ -82,13 +80,13 @@
       </extension>
       <option name="PACKAGE_NAME" value="A101_LearningJava.B101_GettingStarted" />
       <option name="MAIN_CLASS_NAME" value="A101_LearningJava.B101_GettingStarted.HelloWorld" />
-      <option name="METHOD_NAME" value="ConcatenateVariables" />
+      <option name="METHOD_NAME" value="IfStatementsLogic" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HelloWorld.PrimitiveDataTypes" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="HelloWorld.IfStatementsLogic2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Yeni_Java" />
       <extension name="coverage">
         <pattern>
@@ -98,13 +96,13 @@
       </extension>
       <option name="PACKAGE_NAME" value="A101_LearningJava.B101_GettingStarted" />
       <option name="MAIN_CLASS_NAME" value="A101_LearningJava.B101_GettingStarted.HelloWorld" />
-      <option name="METHOD_NAME" value="PrimitiveDataTypes" />
+      <option name="METHOD_NAME" value="IfStatementsLogic2" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HelloWorld.ReferenceDataTypes" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="HelloWorld.Scanner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Yeni_Java" />
       <extension name="coverage">
         <pattern>
@@ -114,13 +112,13 @@
       </extension>
       <option name="PACKAGE_NAME" value="A101_LearningJava.B101_GettingStarted" />
       <option name="MAIN_CLASS_NAME" value="A101_LearningJava.B101_GettingStarted.HelloWorld" />
-      <option name="METHOD_NAME" value="ReferenceDataTypes" />
+      <option name="METHOD_NAME" value="Scanner" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HelloWorld.Test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="HelloWorld.whileLoops" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Yeni_Java" />
       <extension name="coverage">
         <pattern>
@@ -130,7 +128,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="A101_LearningJava.B101_GettingStarted" />
       <option name="MAIN_CLASS_NAME" value="A101_LearningJava.B101_GettingStarted.HelloWorld" />
-      <option name="METHOD_NAME" value="Test1" />
+      <option name="METHOD_NAME" value="whileLoops" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -138,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.HelloWorld.ConcatenateVariables" />
-        <item itemvalue="JUnit.HelloWorld.ReferenceDataTypes" />
-        <item itemvalue="JUnit.HelloWorld.PrimitiveDataTypes" />
-        <item itemvalue="JUnit.HelloWorld" />
-        <item itemvalue="JUnit.HelloWorld.Test1" />
+        <item itemvalue="JUnit.HelloWorld.whileLoops" />
+        <item itemvalue="Application.HelloWorld" />
+        <item itemvalue="JUnit.HelloWorld.IfStatementsLogic2" />
+        <item itemvalue="JUnit.HelloWorld.IfStatementsLogic" />
+        <item itemvalue="JUnit.HelloWorld.Scanner" />
       </list>
     </recent_temporary>
   </component>
