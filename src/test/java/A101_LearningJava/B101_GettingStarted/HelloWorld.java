@@ -127,43 +127,75 @@ public class HelloWorld {
 
     }
 
+//
+//    public static void main(String[] args) {
+//        Scanner input = new Scanner(System.in);
+//        String question = "What is your favorite color?";
+//
+//
+//        String choice1= "blue";
+//        String choice2= "black";
+//        String choice3= "yellow";
+//
+//        String correctAns = choice2;
+//
+//        System.out.println(question);
+//        System.out.println("Choose the following");
+//        System.out.println( "A-"+choice1);
+//        System.out.println( "B-"+choice2);
+//        System.out.println( "C-"+choice3);
+//
+//        Boolean userans  = true;
+//        String ans = input.next();
+//        while(userans){
+//            System.out.println(question);
+//            System.out.println("Choose the following");
+//            System.out.println( "A-"+choice1);
+//            System.out.println( "B-"+choice2);
+//            System.out.println( "C-"+choice3);
+//
+//            if (correctAns.equalsIgnoreCase(choice2)) {
+//                System.out.println("The answer is Correct.");
+//                userans = false;
+//            } else if (ans.equalsIgnoreCase(choice2)){
+//                System.out.println( choice2 +" NOT Correct. Try Again");
+//                userans = false;
+//            }else if(ans.equals(choice3)){
+//                System.out.println( choice3 +" NOT Correct. Try Again");
+//                userans = false;
+//            }
+//        }
+//    }
+//
+
 
     public static void main(String[] args) {
+
+        System.out.println("Let's calculate the area of a triangle");
+
         Scanner input = new Scanner(System.in);
-        String question = "What is your favorite color?";
 
+        System.out.println("Please input the base of the triangle (in inches).");
+        double base = input.nextDouble();
 
-        String choice1= "blue";
-        String choice2= "black";
-        String choice3= "yellow";
-
-        String correctAns = choice2;
-
-        System.out.println(question);
-        System.out.println("Choose the following");
-        System.out.println( "A-"+choice1);
-        System.out.println( "B-"+choice2);
-        System.out.println( "C-"+choice3);
-
-        Boolean userans  = true;
-        String ans = input.next();
-        while(userans){
-            System.out.println(question);
-            System.out.println("Choose the following");
-            System.out.println( "A-"+choice1);
-            System.out.println( "B-"+choice2);
-            System.out.println( "C-"+choice3);
-
-            if (correctAns.equalsIgnoreCase(choice2)) {
-                System.out.println("The answer is Correct.");
-                userans = false;
-            } else if (ans.equalsIgnoreCase(choice2)){
-                System.out.println( choice2 +" NOT Correct. Try Again");
-                userans = false;
-            }else if(ans.equals(choice3)){
-                System.out.println( choice3 +" NOT Correct. Try Again");
-                userans = false;
-            }
+        while (base <= 0) {
+            System.out.println("That's invalid. Please input the base of the triangle (in inches).");
+            base = input.nextDouble();
         }
+
+        System.out.println("Please input the height of the triangle (in inches).");
+        double height = input.nextDouble();
+        while (height <= 0) {
+            System.out.println("That's invalid. Please input the height of the triangle (in inches).");
+            height = input.nextDouble();
+        }
+
+        double area = (base * height) / 2;
+        System.out.println("The area is " + area);
+
+
     }
+
+
+
 }

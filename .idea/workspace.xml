@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="155cec30-e9d1-47f2-bb09-70e8c9cb32e8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/A101_LearningJava/B101_GettingStarted/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/A101_LearningJava/B101_GettingStarted/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/A101_LearningJava/B101_GettingStarted/HelloWorld.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/A101_LearningJava/B101_GettingStarted/HelloWorld.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,6 +36,7 @@
     <option name="importingSettings">
       <MavenImportingSettings>
         <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
       </MavenImportingSettings>
     </option>
   </component>
@@ -42,6 +46,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RunDashboard">
@@ -56,13 +63,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.HelloWorld.whileLoops">
-    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="A101_LearningJava.B101_GettingStarted.HelloWorld" />
+  <component name="RunManager" selected="Application.Calculator">
+    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="A102_LearningJava11.Calculator" />
       <module name="Yeni_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="A101_LearningJava.B101_GettingStarted.*" />
+          <option name="PATTERN" value="A102_LearningJava11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,65 +77,65 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HelloWorld.IfStatementsLogic" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ForTriangleClass.StudentTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Yeni_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="A101_LearningJava.B101_GettingStarted.*" />
+          <option name="PATTERN" value="A101_LearningJava.Classes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="A101_LearningJava.B101_GettingStarted" />
-      <option name="MAIN_CLASS_NAME" value="A101_LearningJava.B101_GettingStarted.HelloWorld" />
-      <option name="METHOD_NAME" value="IfStatementsLogic" />
+      <option name="PACKAGE_NAME" value="A101_LearningJava.Classes" />
+      <option name="MAIN_CLASS_NAME" value="A101_LearningJava.Classes.ForTriangleClass" />
+      <option name="METHOD_NAME" value="StudentTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HelloWorld.IfStatementsLogic2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PrimitiveData.CompareString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Yeni_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="A101_LearningJava.B101_GettingStarted.*" />
+          <option name="PATTERN" value="A102_LearningJava11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="A101_LearningJava.B101_GettingStarted" />
-      <option name="MAIN_CLASS_NAME" value="A101_LearningJava.B101_GettingStarted.HelloWorld" />
-      <option name="METHOD_NAME" value="IfStatementsLogic2" />
+      <option name="PACKAGE_NAME" value="A102_LearningJava11" />
+      <option name="MAIN_CLASS_NAME" value="A102_LearningJava11.PrimitiveData" />
+      <option name="METHOD_NAME" value="CompareString" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HelloWorld.Scanner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PrimitiveData.ParseString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Yeni_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="A101_LearningJava.B101_GettingStarted.*" />
+          <option name="PATTERN" value="A102_LearningJava11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="A101_LearningJava.B101_GettingStarted" />
-      <option name="MAIN_CLASS_NAME" value="A101_LearningJava.B101_GettingStarted.HelloWorld" />
-      <option name="METHOD_NAME" value="Scanner" />
+      <option name="PACKAGE_NAME" value="A102_LearningJava11" />
+      <option name="MAIN_CLASS_NAME" value="A102_LearningJava11.PrimitiveData" />
+      <option name="METHOD_NAME" value="ParseString" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HelloWorld.whileLoops" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PrimitiveData.PrimitiveDataType" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Yeni_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="A101_LearningJava.B101_GettingStarted.*" />
+          <option name="PATTERN" value="A102_LearningJava11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="A101_LearningJava.B101_GettingStarted" />
-      <option name="MAIN_CLASS_NAME" value="A101_LearningJava.B101_GettingStarted.HelloWorld" />
-      <option name="METHOD_NAME" value="whileLoops" />
+      <option name="PACKAGE_NAME" value="A102_LearningJava11" />
+      <option name="MAIN_CLASS_NAME" value="A102_LearningJava11.PrimitiveData" />
+      <option name="METHOD_NAME" value="PrimitiveDataType" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -136,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.HelloWorld.whileLoops" />
-        <item itemvalue="Application.HelloWorld" />
-        <item itemvalue="JUnit.HelloWorld.IfStatementsLogic2" />
-        <item itemvalue="JUnit.HelloWorld.IfStatementsLogic" />
-        <item itemvalue="JUnit.HelloWorld.Scanner" />
+        <item itemvalue="Application.Calculator" />
+        <item itemvalue="JUnit.PrimitiveData.ParseString" />
+        <item itemvalue="JUnit.PrimitiveData.CompareString" />
+        <item itemvalue="JUnit.PrimitiveData.PrimitiveDataType" />
+        <item itemvalue="JUnit.ForTriangleClass.StudentTest" />
       </list>
     </recent_temporary>
   </component>
@@ -162,10 +169,23 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/A101_LearningJava/Classes/Triangle.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
