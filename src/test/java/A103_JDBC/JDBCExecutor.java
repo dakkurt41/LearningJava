@@ -1,6 +1,7 @@
 package A103_JDBC;
 
 import org.junit.Test;
+import org.w3c.dom.ls.LSOutput;
 
 import java.sql.Connection;
 import java.sql.ResultSet;
@@ -137,6 +138,47 @@ public class JDBCExecutor {
         }
     }
 
+
+
+    @Test
+    public void LimitingByOrderTest(){
+
+        try{
+            Connection connection = dcm.getConnection();
+            CustomerDAO customerDAO = new CustomerDAO(connection);
+            customerDAO.findAllSorted(20).forEach(System.out :: println);
+
+
+        }catch(SQLException e){
+            e.printStackTrace();
+        }
+    }
+
+
+
+
+    @Test
+    public void SelectFromDatabase(){
+
+        try{
+            Connection connection = dcm.getConnection();
+            Statement statement = connection.createStatement();
+            String query = "SELECT customer_id, first_name, last_name, email, phone, address, city, state, zipcode " +
+                            "FROM customer WHERE customer_id >= 10010";
+            ResultSet rs = statement.executeQuery(query);
+            while(rs.next())
+            {
+                System.out.println(rs.getString(1));    //First Column
+                System.out.println(rs.getString(2));    //Second Column
+                System.out.println(rs.getString(3));    //Third Column
+                System.out.println(rs.getString(4));    //Fourth Column
+            }
+
+
+        }catch(SQLException e){
+            e.printStackTrace();
+        }
+    }
 
 
 
