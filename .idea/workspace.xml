@@ -3,9 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="155cec30-e9d1-47f2-bb09-70e8c9cb32e8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/A102_LearningJava11/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/A102_LearningJava11/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/A102_LearningJava11/Calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/A102_LearningJava11/Calculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/A103_JDBC/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/A103_JDBC/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/A103_JDBC/CustomerDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/A103_JDBC/CustomerDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/A103_JDBC/JDBCExecutor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/A103_JDBC/JDBCExecutor.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -76,40 +76,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.JDBCExecutor.Test3">
-    <configuration name="ClothingMainClass.Test5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Yeni_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="A102_LearningJava11.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="A102_LearningJava11" />
-      <option name="MAIN_CLASS_NAME" value="A102_LearningJava11.ClothingMainClass" />
-      <option name="METHOD_NAME" value="Test5" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ClothingMainClass.Test6" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Yeni_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="A102_LearningJava11.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="A102_LearningJava11" />
-      <option name="MAIN_CLASS_NAME" value="A102_LearningJava11.ClothingMainClass" />
-      <option name="METHOD_NAME" value="Test6" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="JDBCExecutor.Test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.JDBCExecutor.OrderLineTest">
+    <configuration name="JDBCExecutor.DeleteSqlTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Yeni_Java" />
       <extension name="coverage">
         <pattern>
@@ -119,7 +87,23 @@
       </extension>
       <option name="PACKAGE_NAME" value="A103_JDBC" />
       <option name="MAIN_CLASS_NAME" value="A103_JDBC.JDBCExecutor" />
-      <option name="METHOD_NAME" value="Test1" />
+      <option name="METHOD_NAME" value="DeleteSqlTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JDBCExecutor.OrderLineTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Yeni_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="A103_JDBC.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="A103_JDBC" />
+      <option name="MAIN_CLASS_NAME" value="A103_JDBC.JDBCExecutor" />
+      <option name="METHOD_NAME" value="OrderLineTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -157,13 +141,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="JDBCExecutor.UpdateSqlTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Yeni_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="A103_JDBC.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="A103_JDBC" />
+      <option name="MAIN_CLASS_NAME" value="A103_JDBC.JDBCExecutor" />
+      <option name="METHOD_NAME" value="UpdateSqlTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.JDBCExecutor.OrderLineTest" />
+        <item itemvalue="JUnit.JDBCExecutor.DeleteSqlTest" />
+        <item itemvalue="JUnit.JDBCExecutor.UpdateSqlTest" />
         <item itemvalue="JUnit.JDBCExecutor.Test3" />
         <item itemvalue="JUnit.JDBCExecutor.Test2" />
-        <item itemvalue="JUnit.JDBCExecutor.Test1" />
-        <item itemvalue="JUnit.ClothingMainClass.Test6" />
-        <item itemvalue="JUnit.ClothingMainClass.Test5" />
       </list>
     </recent_temporary>
   </component>
