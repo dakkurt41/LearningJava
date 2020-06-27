@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="155cec30-e9d1-47f2-bb09-70e8c9cb32e8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/A103_JDBC/CustomerDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/A103_JDBC/CustomerDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/A103_JDBC/JDBCExecutor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/A103_JDBC/JDBCExecutor.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -75,23 +73,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.DataBaseTestForAutomation.SelectExample">
-    <configuration name="DataBaseTestForAutomation.InsertIntoDatabase" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Yeni_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="A103_JDBC.DatabaseTesting.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="A103_JDBC.DatabaseTesting" />
-      <option name="MAIN_CLASS_NAME" value="A103_JDBC.DatabaseTesting.DataBaseTestForAutomation" />
-      <option name="METHOD_NAME" value="InsertIntoDatabase" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.ExpectionHandling.TryAndCatchTest">
     <configuration name="DataBaseTestForAutomation.SelectExample" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Yeni_Java" />
       <extension name="coverage">
@@ -124,33 +106,49 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DataBaseTestForAutomation.prepareStatementDatabase" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ExpectionHandling.StringToCharArrayForLoop" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Yeni_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="A103_JDBC.DatabaseTesting.*" />
+          <option name="PATTERN" value="A104_JavaEssential_Objects_API.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="A103_JDBC.DatabaseTesting" />
-      <option name="MAIN_CLASS_NAME" value="A103_JDBC.DatabaseTesting.DataBaseTestForAutomation" />
-      <option name="METHOD_NAME" value="prepareStatementDatabase" />
+      <option name="PACKAGE_NAME" value="A104_JavaEssential_Objects_API" />
+      <option name="MAIN_CLASS_NAME" value="A104_JavaEssential_Objects_API.ExpectionHandling" />
+      <option name="METHOD_NAME" value="StringToCharArrayForLoop" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JDBCExecutor.SelectFromDatabase" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ExpectionHandling.Test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Yeni_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="A103_JDBC.DatabaseTesting.*" />
+          <option name="PATTERN" value="A104_JavaEssential_Objects_API.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="A103_JDBC" />
-      <option name="MAIN_CLASS_NAME" value="A103_JDBC.JDBCExecutor" />
-      <option name="METHOD_NAME" value="SelectFromDatabase" />
+      <option name="PACKAGE_NAME" value="A104_JavaEssential_Objects_API" />
+      <option name="MAIN_CLASS_NAME" value="A104_JavaEssential_Objects_API.ExpectionHandling" />
+      <option name="METHOD_NAME" value="Test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExpectionHandling.TryAndCatchTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Yeni_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="A104_JavaEssential_Objects_API.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="A104_JavaEssential_Objects_API" />
+      <option name="MAIN_CLASS_NAME" value="A104_JavaEssential_Objects_API.ExpectionHandling" />
+      <option name="METHOD_NAME" value="TryAndCatchTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -158,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ExpectionHandling.TryAndCatchTest" />
+        <item itemvalue="JUnit.ExpectionHandling.StringToCharArrayForLoop" />
+        <item itemvalue="JUnit.ExpectionHandling.Test1" />
         <item itemvalue="JUnit.DataBaseTestForAutomation.SelectExample" />
         <item itemvalue="JUnit.DataBaseTestForAutomation.databaseConncetionCheck" />
-        <item itemvalue="JUnit.DataBaseTestForAutomation.prepareStatementDatabase" />
-        <item itemvalue="JUnit.DataBaseTestForAutomation.InsertIntoDatabase" />
-        <item itemvalue="JUnit.JDBCExecutor.SelectFromDatabase" />
       </list>
     </recent_temporary>
   </component>
