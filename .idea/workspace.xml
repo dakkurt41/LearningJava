@@ -73,82 +73,82 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ExpectionHandling.TryAndCatchTest">
-    <configuration name="DataBaseTestForAutomation.SelectExample" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.StreamTests.Test8">
+    <configuration name="StreamTests.Test4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Yeni_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="A103_JDBC.DatabaseTesting.*" />
+          <option name="PATTERN" value="A105_JavaStreams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="A103_JDBC.DatabaseTesting" />
-      <option name="MAIN_CLASS_NAME" value="A103_JDBC.DatabaseTesting.DataBaseTestForAutomation" />
-      <option name="METHOD_NAME" value="SelectExample" />
+      <option name="PACKAGE_NAME" value="A105_JavaStreams" />
+      <option name="MAIN_CLASS_NAME" value="A105_JavaStreams.StreamTests" />
+      <option name="METHOD_NAME" value="Test4" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DataBaseTestForAutomation.databaseConncetionCheck" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="StreamTests.Test5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Yeni_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="A103_JDBC.DatabaseTesting.*" />
+          <option name="PATTERN" value="A105_JavaStreams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="A103_JDBC.DatabaseTesting" />
-      <option name="MAIN_CLASS_NAME" value="A103_JDBC.DatabaseTesting.DataBaseTestForAutomation" />
-      <option name="METHOD_NAME" value="databaseConncetionCheck" />
+      <option name="PACKAGE_NAME" value="A105_JavaStreams" />
+      <option name="MAIN_CLASS_NAME" value="A105_JavaStreams.StreamTests" />
+      <option name="METHOD_NAME" value="Test5" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExpectionHandling.StringToCharArrayForLoop" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="StreamTests.Test6" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Yeni_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="A104_JavaEssential_Objects_API.*" />
+          <option name="PATTERN" value="A105_JavaStreams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="A104_JavaEssential_Objects_API" />
-      <option name="MAIN_CLASS_NAME" value="A104_JavaEssential_Objects_API.ExpectionHandling" />
-      <option name="METHOD_NAME" value="StringToCharArrayForLoop" />
+      <option name="PACKAGE_NAME" value="A105_JavaStreams" />
+      <option name="MAIN_CLASS_NAME" value="A105_JavaStreams.StreamTests" />
+      <option name="METHOD_NAME" value="Test6" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExpectionHandling.Test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="StreamTests.Test7" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Yeni_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="A104_JavaEssential_Objects_API.*" />
+          <option name="PATTERN" value="A105_JavaStreams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="A104_JavaEssential_Objects_API" />
-      <option name="MAIN_CLASS_NAME" value="A104_JavaEssential_Objects_API.ExpectionHandling" />
-      <option name="METHOD_NAME" value="Test1" />
+      <option name="PACKAGE_NAME" value="A105_JavaStreams" />
+      <option name="MAIN_CLASS_NAME" value="A105_JavaStreams.StreamTests" />
+      <option name="METHOD_NAME" value="Test7" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExpectionHandling.TryAndCatchTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="StreamTests.Test8" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Yeni_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="A104_JavaEssential_Objects_API.*" />
+          <option name="PATTERN" value="A105_JavaStreams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="A104_JavaEssential_Objects_API" />
-      <option name="MAIN_CLASS_NAME" value="A104_JavaEssential_Objects_API.ExpectionHandling" />
-      <option name="METHOD_NAME" value="TryAndCatchTest" />
+      <option name="PACKAGE_NAME" value="A105_JavaStreams" />
+      <option name="MAIN_CLASS_NAME" value="A105_JavaStreams.StreamTests" />
+      <option name="METHOD_NAME" value="Test8" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -156,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.ExpectionHandling.TryAndCatchTest" />
-        <item itemvalue="JUnit.ExpectionHandling.StringToCharArrayForLoop" />
-        <item itemvalue="JUnit.ExpectionHandling.Test1" />
-        <item itemvalue="JUnit.DataBaseTestForAutomation.SelectExample" />
-        <item itemvalue="JUnit.DataBaseTestForAutomation.databaseConncetionCheck" />
+        <item itemvalue="JUnit.StreamTests.Test8" />
+        <item itemvalue="JUnit.StreamTests.Test7" />
+        <item itemvalue="JUnit.StreamTests.Test6" />
+        <item itemvalue="JUnit.StreamTests.Test5" />
+        <item itemvalue="JUnit.StreamTests.Test4" />
       </list>
     </recent_temporary>
   </component>
