@@ -73,82 +73,82 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.StreamTests.Test8">
-    <configuration name="StreamTests.Test4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.B103_Consumer.Test3">
+    <configuration name="B101_Imprative.ImperativeApproach1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Yeni_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="A105_JavaStreams.*" />
+          <option name="PATTERN" value="A106_JavaFunctional.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="A105_JavaStreams" />
-      <option name="MAIN_CLASS_NAME" value="A105_JavaStreams.StreamTests" />
-      <option name="METHOD_NAME" value="Test4" />
+      <option name="PACKAGE_NAME" value="A106_JavaFunctional" />
+      <option name="MAIN_CLASS_NAME" value="A106_JavaFunctional.B101_Imprative" />
+      <option name="METHOD_NAME" value="ImperativeApproach1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamTests.Test5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="B102_Function.Test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Yeni_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="A105_JavaStreams.*" />
+          <option name="PATTERN" value="A106_JavaFunctional.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="A105_JavaStreams" />
-      <option name="MAIN_CLASS_NAME" value="A105_JavaStreams.StreamTests" />
-      <option name="METHOD_NAME" value="Test5" />
+      <option name="PACKAGE_NAME" value="A106_JavaFunctional" />
+      <option name="MAIN_CLASS_NAME" value="A106_JavaFunctional.B102_Function" />
+      <option name="METHOD_NAME" value="Test1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamTests.Test6" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="B103_Consumer.Test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Yeni_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="A105_JavaStreams.*" />
+          <option name="PATTERN" value="A106_JavaFunctional.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="A105_JavaStreams" />
-      <option name="MAIN_CLASS_NAME" value="A105_JavaStreams.StreamTests" />
-      <option name="METHOD_NAME" value="Test6" />
+      <option name="PACKAGE_NAME" value="A106_JavaFunctional" />
+      <option name="MAIN_CLASS_NAME" value="A106_JavaFunctional.B103_Consumer" />
+      <option name="METHOD_NAME" value="Test1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamTests.Test7" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="B103_Consumer.Test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Yeni_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="A105_JavaStreams.*" />
+          <option name="PATTERN" value="A106_JavaFunctional.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="A105_JavaStreams" />
-      <option name="MAIN_CLASS_NAME" value="A105_JavaStreams.StreamTests" />
-      <option name="METHOD_NAME" value="Test7" />
+      <option name="PACKAGE_NAME" value="A106_JavaFunctional" />
+      <option name="MAIN_CLASS_NAME" value="A106_JavaFunctional.B103_Consumer" />
+      <option name="METHOD_NAME" value="Test2" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamTests.Test8" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="B103_Consumer.Test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Yeni_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="A105_JavaStreams.*" />
+          <option name="PATTERN" value="A106_JavaFunctional.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="A105_JavaStreams" />
-      <option name="MAIN_CLASS_NAME" value="A105_JavaStreams.StreamTests" />
-      <option name="METHOD_NAME" value="Test8" />
+      <option name="PACKAGE_NAME" value="A106_JavaFunctional" />
+      <option name="MAIN_CLASS_NAME" value="A106_JavaFunctional.B103_Consumer" />
+      <option name="METHOD_NAME" value="Test3" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -156,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.StreamTests.Test8" />
-        <item itemvalue="JUnit.StreamTests.Test7" />
-        <item itemvalue="JUnit.StreamTests.Test6" />
-        <item itemvalue="JUnit.StreamTests.Test5" />
-        <item itemvalue="JUnit.StreamTests.Test4" />
+        <item itemvalue="JUnit.B103_Consumer.Test3" />
+        <item itemvalue="JUnit.B103_Consumer.Test2" />
+        <item itemvalue="JUnit.B103_Consumer.Test1" />
+        <item itemvalue="JUnit.B102_Function.Test1" />
+        <item itemvalue="JUnit.B101_Imprative.ImperativeApproach1" />
       </list>
     </recent_temporary>
   </component>
