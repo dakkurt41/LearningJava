@@ -36,7 +36,6 @@ public class B105_Supplier {
 
     }
 
-
     @Test
     public void Test3() {
         List<String> strings = getDBConnectionUrlSupplierList.get();

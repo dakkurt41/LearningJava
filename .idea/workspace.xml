@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="155cec30-e9d1-47f2-bb09-70e8c9cb32e8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/A106_JavaFunctional/B105_Supplier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/A106_JavaFunctional/B105_Supplier.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,6 +19,7 @@
       <list>
         <option value="Enum" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -73,82 +75,82 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.B105_Supplier.Test3">
-    <configuration name="B103_Consumer.Test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.CustomerTest.Test1">
+    <configuration name="B101_Streams.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Yeni_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="A106_JavaFunctional.*" />
+          <option name="PATTERN" value="A106_JavaFunctional.B107_Streams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="A106_JavaFunctional" />
-      <option name="MAIN_CLASS_NAME" value="A106_JavaFunctional.B103_Consumer" />
-      <option name="METHOD_NAME" value="Test3" />
+      <option name="PACKAGE_NAME" value="B107_Streams" />
+      <option name="MAIN_CLASS_NAME" value="A106_JavaFunctional.B107_Streams.B101_Streams" />
+      <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="B104_Predicate.Test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="B101_Streams.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Yeni_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="A106_JavaFunctional.*" />
+          <option name="PATTERN" value="A106_JavaFunctional.B107_Streams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="A106_JavaFunctional" />
-      <option name="MAIN_CLASS_NAME" value="A106_JavaFunctional.B104_Predicate" />
+      <option name="PACKAGE_NAME" value="B107_Streams" />
+      <option name="MAIN_CLASS_NAME" value="A106_JavaFunctional.B107_Streams.B101_Streams" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="B102_Optionals.Test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Yeni_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="A106_JavaFunctional.B107_Streams.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="B107_Streams" />
+      <option name="MAIN_CLASS_NAME" value="A106_JavaFunctional.B107_Streams.B102_Optionals" />
       <option name="METHOD_NAME" value="Test1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="B105_Supplier.Test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="B102_Optionals.Test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Yeni_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="A106_JavaFunctional.*" />
+          <option name="PATTERN" value="A106_JavaFunctional.B107_Streams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="A106_JavaFunctional" />
-      <option name="MAIN_CLASS_NAME" value="A106_JavaFunctional.B105_Supplier" />
-      <option name="METHOD_NAME" value="Test1" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="B105_Supplier.Test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Yeni_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="A106_JavaFunctional.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="A106_JavaFunctional" />
-      <option name="MAIN_CLASS_NAME" value="A106_JavaFunctional.B105_Supplier" />
+      <option name="PACKAGE_NAME" value="B107_Streams" />
+      <option name="MAIN_CLASS_NAME" value="A106_JavaFunctional.B107_Streams.B102_Optionals" />
       <option name="METHOD_NAME" value="Test2" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="B105_Supplier.Test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CustomerTest.Test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Yeni_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="A106_JavaFunctional.*" />
+          <option name="PATTERN" value="A106_JavaFunctional.B108_CombinatorPattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="A106_JavaFunctional" />
-      <option name="MAIN_CLASS_NAME" value="A106_JavaFunctional.B105_Supplier" />
-      <option name="METHOD_NAME" value="Test3" />
+      <option name="PACKAGE_NAME" value="A106_JavaFunctional.B108_CombinatorPattern" />
+      <option name="MAIN_CLASS_NAME" value="A106_JavaFunctional.B108_CombinatorPattern.CustomerTest" />
+      <option name="METHOD_NAME" value="Test1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -156,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.B105_Supplier.Test3" />
-        <item itemvalue="JUnit.B105_Supplier.Test2" />
-        <item itemvalue="JUnit.B105_Supplier.Test1" />
-        <item itemvalue="JUnit.B104_Predicate.Test1" />
-        <item itemvalue="JUnit.B103_Consumer.Test3" />
+        <item itemvalue="JUnit.CustomerTest.Test1" />
+        <item itemvalue="JUnit.B102_Optionals.Test2" />
+        <item itemvalue="JUnit.B102_Optionals.Test1" />
+        <item itemvalue="JUnit.B101_Streams.test2" />
+        <item itemvalue="JUnit.B101_Streams.test1" />
       </list>
     </recent_temporary>
   </component>
