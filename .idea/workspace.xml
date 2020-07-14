@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="155cec30-e9d1-47f2-bb09-70e8c9cb32e8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/A106_JavaFunctional/B108_CombinatorPattern/CustomerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/A106_JavaFunctional/B108_CombinatorPattern/CustomerTest.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -75,82 +74,82 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.B107_Lambadas.Test2">
-    <configuration name="B102_Optionals.Test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.PersonTest.map_with_JavaStream2">
+    <configuration name="B01Test.calculateAvarageOfStudent" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Yeni_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="A106_JavaFunctional.B107_Streams.*" />
+          <option name="PATTERN" value="A107_MethodsForIteratingCollections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="B107_Streams" />
-      <option name="MAIN_CLASS_NAME" value="A106_JavaFunctional.B107_Streams.B102_Optionals" />
-      <option name="METHOD_NAME" value="Test2" />
+      <option name="PACKAGE_NAME" value="A107_MethodsForIteratingCollections" />
+      <option name="MAIN_CLASS_NAME" value="A107_MethodsForIteratingCollections.B01Test" />
+      <option name="METHOD_NAME" value="calculateAvarageOfStudent" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="B106_FinalPackage.Test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="B01Test.sortAndLimitOfStudent" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Yeni_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="A106_JavaFunctional.*" />
+          <option name="PATTERN" value="A107_MethodsForIteratingCollections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="A106_JavaFunctional" />
-      <option name="MAIN_CLASS_NAME" value="A106_JavaFunctional.B106_FinalPackage" />
-      <option name="METHOD_NAME" value="Test1" />
+      <option name="PACKAGE_NAME" value="A107_MethodsForIteratingCollections" />
+      <option name="MAIN_CLASS_NAME" value="A107_MethodsForIteratingCollections.B01Test" />
+      <option name="METHOD_NAME" value="sortAndLimitOfStudent" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="B107_Lambadas.Test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="B01Test.sortAndLimitOfStudent2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Yeni_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="A106_JavaFunctional.*" />
+          <option name="PATTERN" value="A107_MethodsForIteratingCollections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="A106_JavaFunctional" />
-      <option name="MAIN_CLASS_NAME" value="A106_JavaFunctional.B107_Lambadas" />
-      <option name="METHOD_NAME" value="Test1" />
+      <option name="PACKAGE_NAME" value="A107_MethodsForIteratingCollections" />
+      <option name="MAIN_CLASS_NAME" value="A107_MethodsForIteratingCollections.B01Test" />
+      <option name="METHOD_NAME" value="sortAndLimitOfStudent2" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="B107_Lambadas.Test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PersonTest.filter_with_JavaStream" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Yeni_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="A106_JavaFunctional.*" />
+          <option name="PATTERN" value="A108_JavaStreamFunctions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="A106_JavaFunctional" />
-      <option name="MAIN_CLASS_NAME" value="A106_JavaFunctional.B107_Lambadas" />
-      <option name="METHOD_NAME" value="Test2" />
+      <option name="PACKAGE_NAME" value="A108_JavaStreamFunctions" />
+      <option name="MAIN_CLASS_NAME" value="A108_JavaStreamFunctions.PersonTest" />
+      <option name="METHOD_NAME" value="filter_with_JavaStream" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CustomerTest.Test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PersonTest.map_with_JavaStream2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Yeni_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="A106_JavaFunctional.B108_CombinatorPattern.*" />
+          <option name="PATTERN" value="A108_JavaStreamFunctions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="A106_JavaFunctional.B108_CombinatorPattern" />
-      <option name="MAIN_CLASS_NAME" value="A106_JavaFunctional.B108_CombinatorPattern.CustomerTest" />
-      <option name="METHOD_NAME" value="Test1" />
+      <option name="PACKAGE_NAME" value="A108_JavaStreamFunctions" />
+      <option name="MAIN_CLASS_NAME" value="A108_JavaStreamFunctions.PersonTest" />
+      <option name="METHOD_NAME" value="map_with_JavaStream2" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -158,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.B107_Lambadas.Test2" />
-        <item itemvalue="JUnit.B107_Lambadas.Test1" />
-        <item itemvalue="JUnit.B106_FinalPackage.Test1" />
-        <item itemvalue="JUnit.CustomerTest.Test1" />
-        <item itemvalue="JUnit.B102_Optionals.Test2" />
+        <item itemvalue="JUnit.PersonTest.map_with_JavaStream2" />
+        <item itemvalue="JUnit.PersonTest.filter_with_JavaStream" />
+        <item itemvalue="JUnit.B01Test.sortAndLimitOfStudent2" />
+        <item itemvalue="JUnit.B01Test.sortAndLimitOfStudent" />
+        <item itemvalue="JUnit.B01Test.calculateAvarageOfStudent" />
       </list>
     </recent_temporary>
   </component>
