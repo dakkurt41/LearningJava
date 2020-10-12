@@ -43,6 +43,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RunDashboard">
@@ -57,7 +58,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.HelloWorld.ReferenceDataTypes">
+  <component name="RunManager" selected="Application.GitPractice">
+    <configuration name="GitPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="A101_LearningJava.B101_GettingStarted.GitPractice" />
+      <module name="Yeni_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="A101_LearningJava.B101_GettingStarted.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="HelloWorld" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Yeni_Java" />
       <extension name="coverage">
@@ -123,6 +137,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GitPractice" />
         <item itemvalue="JUnit.HelloWorld.ReferenceDataTypes" />
         <item itemvalue="JUnit.HelloWorld.PrimitiveDataTypes" />
         <item itemvalue="JUnit.HelloWorld" />
